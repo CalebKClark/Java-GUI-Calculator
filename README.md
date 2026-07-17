@@ -25,9 +25,9 @@ A desktop calculator application built using Java Swing.
 
 ## How to Run
 
-1. Clone this repository
-2. Open the project in Eclipse
-3. Run Main.java
+1. Open the GUI-Calculator.jar file
+2. Download the raw file
+3. Run it!
 
 ## Future Improvements
 
